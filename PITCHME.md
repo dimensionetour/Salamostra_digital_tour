@@ -1,3 +1,3 @@
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600853517/Salamostra/Artemis_Anthracite.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600853517/Salamostra/Artemis_Beige.jpg&size=auto 100%
----?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600853565/Salamostra/Artemis_Grey.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854235/Salamostra/Dolmix_Dark.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854235/Salamostra/Dolmix_grey.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854234/Salamostra/Dolmix_Light.jpg&size=auto 100%
